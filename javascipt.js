@@ -425,6 +425,7 @@
   //rev =(rev*10) + (a%10)
   //a = Math.floor(a/10)
 //}
+//--------------------------------
 
 //console.log(rev==temp? "Palindrom":"not Palindrome");
 
@@ -517,6 +518,7 @@
    // console.log("Sunday")
     //break;  
 //}
+
 
 //43.
 //let alphabet = prompt("Enter the alphabet");
@@ -878,6 +880,8 @@
          
          
 //  }
+
+let string = prompt("Enter the stringg")
       
 
 
